@@ -1,0 +1,780 @@
+[
+  {
+    "name": "Crack Adobe",
+    "version": "3.7",
+    "categoryId": "1759225635450",
+    "description": "Windows ",
+    "thumbnail": "",
+    "id": 1770084242865,
+    "fileName": "1770084242851-Adobe-GenP_3.7.1.rar",
+    "downloadUrl": "/downloads/1770084242851-Adobe-GenP_3.7.1.rar"
+  },
+  {
+    "name": "Adobe Audition ",
+    "version": "2022",
+    "categoryId": "1759371319063",
+    "description": "2022 v22.0.0.96 (x64) Multilingual",
+    "thumbnail": "",
+    "id": 1765852550906,
+    "fileName": "1765852550347-Adobe_Audition_2022_v22.0.0.96_(x64)_Multilingual.rar",
+    "downloadUrl": "/downloads/1765852550347-Adobe_Audition_2022_v22.0.0.96_(x64)_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Media Encoder",
+    "version": "2022",
+    "categoryId": "1759371319063",
+    "description": "AdobeMediaEncoder2022",
+    "thumbnail": "",
+    "id": 1765852505305,
+    "fileName": "1765852501576-Adobe_Media_Encoder_2022_v22.6.1.2_(x64)_Multilingual.rar",
+    "downloadUrl": "/downloads/1765852501576-Adobe_Media_Encoder_2022_v22.6.1.2_(x64)_Multilingual.rar"
+  },
+  {
+    "name": "Vray sketchup",
+    "version": "7",
+    "categoryId": "1762500920445",
+    "description": "Vray 7 sketchup",
+    "thumbnail": "",
+    "id": 1763622327936,
+    "fileName": "1763622323940-Chaos_V-Ray_7.1.2_Build_7.10.02_for_SketchUp_2021_-_2025.rar",
+    "downloadUrl": "/downloads/1763622323940-Chaos_V-Ray_7.1.2_Build_7.10.02_for_SketchUp_2021_-_2025.rar"
+  },
+  {
+    "name": "Corona ",
+    "version": "13",
+    "categoryId": "1762500920445",
+    "description": "noi that",
+    "thumbnail": "",
+    "id": 1763622238276,
+    "fileName": "1763622233392-Chaos_Corona_13_hotfix_2_for_3ds_Max_2016_-_2026.rar",
+    "downloadUrl": "/downloads/1763622233392-Chaos_Corona_13_hotfix_2_for_3ds_Max_2016_-_2026.rar"
+  },
+  {
+    "name": "SKETCHUP",
+    "version": "2023",
+    "categoryId": "1762500920445",
+    "description": "Noi That",
+    "thumbnail": "",
+    "id": 1763622109281,
+    "fileName": "1763622104378-SketchUp_Pro_2023_v23.1.340_(x64)_Multilingual.rar",
+    "downloadUrl": "/downloads/1763622104378-SketchUp_Pro_2023_v23.1.340_(x64)_Multilingual.rar"
+  },
+  {
+    "name": "DaVinci Resolve Studio ",
+    "version": "v18.1.2",
+    "categoryId": "1762502839514",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503834705,
+    "fileName": "1762503815988-DaVinci_Resolve_Studio_v18.1.2.dmg",
+    "downloadUrl": "/downloads/1762503815988-DaVinci_Resolve_Studio_v18.1.2.dmg"
+  },
+  {
+    "name": "Davinci ",
+    "version": "17",
+    "categoryId": "1762241152728",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503758171,
+    "fileName": "1762503742137-Davinci_17.rar",
+    "downloadUrl": "/downloads/1762503742137-Davinci_17.rar"
+  },
+  {
+    "name": "AUTOCAD",
+    "version": "2024",
+    "categoryId": "1762503461825",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503587405,
+    "fileName": "1762503579927-AutoCAD_2024_v2024.3.dmg",
+    "downloadUrl": "/downloads/1762503579927-AutoCAD_2024_v2024.3.dmg"
+  },
+  {
+    "name": "SKETCHUP",
+    "version": "2022",
+    "categoryId": "1762503461825",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503514040,
+    "fileName": "1762503506353-sketupmacos.dmg",
+    "downloadUrl": "/downloads/1762503506353-sketupmacos.dmg"
+  },
+  {
+    "name": "FIX ADOBE FOR MAC",
+    "version": "11.1",
+    "categoryId": "1762502839514",
+    "description": "FIX ADOBE FOR MAC\nChay cai nay truoc khi cai va sau khi cai xong \nLenh tat getkepper : sudo spctl --master-disable",
+    "thumbnail": "",
+    "id": 1762503431633,
+    "fileName": "1762503431454-Patch_Ad0b32024.zip",
+    "downloadUrl": "/downloads/1762503431454-Patch_Ad0b32024.zip"
+  },
+  {
+    "name": "Adobe Audition",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503355663,
+    "fileName": "1762503354595-Audition_22.6.dmg",
+    "downloadUrl": "/downloads/1762503354595-Audition_22.6.dmg"
+  },
+  {
+    "name": "Adobe Media Encoder\t",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503324480,
+    "fileName": "1762503316640-Media_Encoder_22.6.1.dmg",
+    "downloadUrl": "/downloads/1762503316640-Media_Encoder_22.6.1.dmg"
+  },
+  {
+    "name": "Adobe InDesign",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hh",
+    "thumbnail": "",
+    "id": 1762503264893,
+    "fileName": "1762503257846-InDesign_17.4.dmg",
+    "downloadUrl": "/downloads/1762503257846-InDesign_17.4.dmg"
+  },
+  {
+    "name": "Adobe Substance 3D Painter",
+    "version": "2022",
+    "categoryId": "1762501651911",
+    "description": "Phần mềm học khóa 3D MOD",
+    "thumbnail": "1762502325383-63eebfa2ad0c238468c87e122bd2deda.jpg",
+    "id": 1762503221997,
+    "fileName": "1762502854789-Adobe_Substance_3D_Painter_9.rar",
+    "downloadUrl": "/downloads/1762502854789-Adobe_Substance_3D_Painter_9.rar"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hehe",
+    "thumbnail": "",
+    "id": 1762503198369,
+    "fileName": "1762503170410-Photoshop_23.5.2.dmg",
+    "downloadUrl": "/downloads/1762503170410-Photoshop_23.5.2.dmg"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hrhr",
+    "thumbnail": "",
+    "id": 1762503141307,
+    "fileName": "1762503087695-Premiere_Pro_22.6.2.dmg",
+    "downloadUrl": "/downloads/1762503087695-Premiere_Pro_22.6.2.dmg"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hehe",
+    "thumbnail": "",
+    "id": 1762503047773,
+    "fileName": "1762503005236-AI_2022_MAC_M1-4.dmg",
+    "downloadUrl": "/downloads/1762503005236-AI_2022_MAC_M1-4.dmg"
+  },
+  {
+    "name": "\tAdobe After Effects",
+    "version": "2022",
+    "categoryId": "1762502839514",
+    "description": "hehehe",
+    "thumbnail": "",
+    "id": 1762502952308,
+    "fileName": "1762502920547-After_Effects_22.6.dmg",
+    "downloadUrl": "/downloads/1762502920547-After_Effects_22.6.dmg"
+  },
+  {
+    "name": "Autodesk Maya",
+    "version": "2022 Windows",
+    "categoryId": "1762501651911",
+    "description": "Phần mềm học khóa 3D MOD",
+    "thumbnail": "",
+    "id": 1762502871769,
+    "fileName": "1762502828630-Maya_2022.iso",
+    "downloadUrl": "/downloads/1762502828630-Maya_2022.iso"
+  },
+  {
+    "name": "zbrush ",
+    "version": "2021",
+    "categoryId": "1762501651911",
+    "description": "ZBrush 2021 ",
+    "thumbnail": "1762502073728-ab310a70b9c47124eca00b38f7445c46.jpg",
+    "id": 1762502374041,
+    "fileName": "1762502372641-ZBrush_2021.rar",
+    "downloadUrl": "/downloads/1762502372641-ZBrush_2021.rar"
+  },
+  {
+    "name": "Win11 Pro ISO",
+    "version": "Win11_Pro_24H2",
+    "categoryId": "1759506693230",
+    "description": "Win11_Pro_24H2_Premium",
+    "thumbnail": "1762500773311-77d506b6784108041a1536973e320f82.jpg",
+    "id": 1762502290475,
+    "fileName": "1762502186010-Win11_Pro_24H2_Premium.iso",
+    "downloadUrl": "/downloads/1762502186010-Win11_Pro_24H2_Premium.iso"
+  },
+  {
+    "name": "Marmoset_Toolbag",
+    "version": "4.0",
+    "categoryId": "1762501651911",
+    "description": "Phần mềm học 3d MOD\n",
+    "thumbnail": "1762501741851-8bba2e13e4e2034bb16539e11887be81.jpg",
+    "id": 1762501801634,
+    "fileName": "1762501801479-Marmoset_Toolbag_4.0x64.rar",
+    "downloadUrl": "/downloads/1762501801479-Marmoset_Toolbag_4.0x64.rar"
+  },
+  {
+    "name": "Windows 10",
+    "version": "LTSC_2021",
+    "categoryId": "1759506693230",
+    "description": "AIO Office",
+    "thumbnail": "1762500657396-d8e5a5777eb93ee3dc3a81035e407548.jpg",
+    "id": 1762501589117,
+    "fileName": "1762501540747-Win10_LTSC_2021_AIO_4in1_Anhdv.iso",
+    "downloadUrl": "/downloads/1762501540747-Win10_LTSC_2021_AIO_4in1_Anhdv.iso"
+  },
+  {
+    "name": "Adobe Lightroom Classic",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe Lightroom Classic (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762247802149-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762248205509,
+    "fileName": "1762248198230-Adobe_Lightroom_Classic_2024_v13.5.1_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762248198230-Adobe_Lightroom_Classic_2024_v13.5.1_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762244615827-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762246912998,
+    "fileName": "1762246464304-Adobe_Photoshop_2024_v25.12.3_(x64)_Multilingual.rar",
+    "downloadUrl": "/downloads/1762246464304-Adobe_Photoshop_2024_v25.12.3_(x64)_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Illustrator ",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762244537340-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762246888450,
+    "fileName": "1762246391179-Adobe_Illustrator_2024_v28.7.1_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762246391179-Adobe_Illustrator_2024_v28.7.1_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe After Effects",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762244499624-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762246520230,
+    "fileName": "1762246347578-Adobe_After_Effects_2024_v24.6.2_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762246347578-Adobe_After_Effects_2024_v24.6.2_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762244632711-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762245968805,
+    "fileName": "1762245947899-Adobe_Premiere_Pro_2024_v24.6.1_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762245947899-Adobe_Premiere_Pro_2024_v24.6.1_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe InDesign ",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762244562473-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762245701701,
+    "fileName": "1762245685700-Adobe_InDesign_2024_v19.5_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762245685700-Adobe_InDesign_2024_v19.5_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Media Encoder",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762244601751-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762245681641,
+    "fileName": "1762245678676-Adobe_Media_Encoder_2024_v24.6.1_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762245678676-Adobe_Media_Encoder_2024_v24.6.1_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Audition",
+    "version": "2024 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the use autoplay.exe.\n  2.) Enjoy!",
+    "thumbnail": "1762245471566-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1762245206091,
+    "fileName": "1762245204727-Adobe_Audition_2024_v24.6.0_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762245204727-Adobe_Audition_2024_v24.6.0_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Photoshop ",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe Photoshop 2023 (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762243766774-558970461_2555927978098810_4362040597524234260_n.jpg",
+    "id": 1762244518383,
+    "fileName": "1762244500020-Adobe_Photoshop_2023_v24.7.1.741_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762244500020-Adobe_Photoshop_2023_v24.7.1.741_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe InDesign ",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe InDesign 2023 (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762243875617-558970461_2555927978098810_4362040597524234260_n.jpg",
+    "id": 1762244250894,
+    "fileName": "1762244246222-Adobe_InDesign_2023_v18.4.0.56_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762244246222-Adobe_InDesign_2023_v18.4.0.56_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Media Encoder",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe Media Encoder 2023 (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762243844769-558970461_2555927978098810_4362040597524234260_n.jpg",
+    "id": 1762244221120,
+    "fileName": "1762244191399-Adobe_Media_Encoder_2023_v23.6.0.62_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762244191399-Adobe_Media_Encoder_2023_v23.6.0.62_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Audition ",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe Audition 2023 (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762243904688-558970461_2555927978098810_4362040597524234260_n.jpg",
+    "id": 1762244153104,
+    "fileName": "1762244139101-Adobe_Audition_2023_23.6.1.3_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762244139101-Adobe_Audition_2023_23.6.1.3_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Premiere Pro ",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe Premiere Pro 2023 (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762243406669-558970461_2555927978098810_4362040597524234260_n.jpg",
+    "id": 1762243729884,
+    "fileName": "1762243691056-Adobe_Premiere_Pro_2023_v23.6.0.65_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762243691056-Adobe_Premiere_Pro_2023_v23.6.0.65_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Illustrator ",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "  1.) Install the Adobe Illustrator 2023 (use autoplay.exe).\n  2.) Enjoy!",
+    "thumbnail": "1762243283417-ae5ae670ee23ece1ff9dd5dc7657428e.jpg",
+    "id": 1762243580518,
+    "fileName": "1762243546016-Adobe_Illustrator_2023_v27.9.0.80_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762243546016-Adobe_Illustrator_2023_v27.9.0.80_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Adobe After Effects",
+    "version": "2023 - Windows",
+    "categoryId": "1762241152728",
+    "description": "Install the Adobe After Effects 2023 (use autoplay.exe).\nEnjoy!",
+    "thumbnail": "1762240932078-32b2e7f1245232e7f1156c87e0630b16.jpg",
+    "id": 1762241301104,
+    "fileName": "1762241293496-Adobe_After_Effects_2023_v23.6.0.62_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1762241293496-Adobe_After_Effects_2023_v23.6.0.62_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Photoshop ",
+    "version": "2022 - MAC ",
+    "categoryId": "1762241152728",
+    "description": "Photoshop cho mac os\nTắt ghetkeeper: sudo spctl --master-disable",
+    "thumbnail": "1761035637091-2c8c1e9ce2b4b28bf2e73bc52325bce9.jpg",
+    "id": 1761036299246,
+    "fileName": "1761036295666-Photoshop_23.5.2.dmg",
+    "downloadUrl": "/downloads/1761036295666-Photoshop_23.5.2.dmg"
+  },
+  {
+    "name": "illustrator",
+    "version": "2022 - MAC ",
+    "categoryId": "1762241152728",
+    "description": "illustrator cho mac os\nTắt ghetkeeper: sudo spctl --master-disable",
+    "thumbnail": "1761035686693-ae5ae670ee23ece1ff9dd5dc7657428e.jpg",
+    "id": 1761036057976,
+    "fileName": "1761036056455-AI_2022_MAC_M1-4.dmg",
+    "downloadUrl": "/downloads/1761036056455-AI_2022_MAC_M1-4.dmg"
+  },
+  {
+    "name": "InDesign ",
+    "version": "2022 - MAC ",
+    "categoryId": "1762241152728",
+    "description": "InDesign cho mac os\nTắt ghetkeeper: sudo spctl --master-disable",
+    "thumbnail": "1761035357863-7c6ed923af13899e9cd18b05351a07f7.jpg",
+    "id": 1761035603080,
+    "fileName": "1761035602452-InDesign_17.4.dmg",
+    "downloadUrl": "/downloads/1761035602452-InDesign_17.4.dmg"
+  },
+  {
+    "name": "Windows defender control ",
+    "version": "2.1",
+    "categoryId": "1759225635450",
+    "description": "Defender Control hỗ trợ quản lý Windows Defender thuận tiện hơn, giúp người dùng bật hoặc tắt trình diệt virus mặc định trên Windows",
+    "thumbnail": "1761036707544-4699e78b5ecaaff77989389c104fcb63.jpg",
+    "id": 1760933731689,
+    "fileName": "1760933731687-24122024.rar",
+    "downloadUrl": "/downloads/1760933731687-24122024.rar"
+  },
+  {
+    "name": "Deep Freeze",
+    "version": "8.6",
+    "categoryId": "1759225635450",
+    "description": "Phần mềm của Faronics cho phép quản trị viên \"đóng băng\" ổ cứng máy tính, khôi phục lại trạng thái ban đầu sau mỗi lần khởi động lại",
+    "thumbnail": "1761036784639-7e34ae7e83e16d24a0a3f7dd85e401d0.jpg",
+    "id": 1760764579641,
+    "fileName": "1760764579630-Faronics_Deep_Freeze_Standard_8.71.020.5734.rar",
+    "downloadUrl": "/downloads/1760764579630-Faronics_Deep_Freeze_Standard_8.71.020.5734.rar"
+  },
+  {
+    "name": "Tối ưu windows",
+    "version": "22h5",
+    "categoryId": "1759225635450",
+    "description": "Tool tối ưu windows toàn diện\n",
+    "thumbnail": "1760433486264-2c58c8ff39aa213c40fc66306872ac73.jpg",
+    "id": 1760433504943,
+    "fileName": "1760433504907-AME_Beta.rar",
+    "downloadUrl": "/downloads/1760433504907-AME_Beta.rar"
+  },
+  {
+    "name": "Windows 11",
+    "version": "25h2",
+    "categoryId": "1759506693230",
+    "description": "Windows 11, phiên bản 25H2 cung cấp các tính năng mới để đảm bảo nội dung và thông tin bạn cần luôn trong tầm tay bạn, bao gồm các bản cập nhật ...",
+    "thumbnail": "1761037028445-4f86d4054705fd110a623804f7e01616.jpg",
+    "id": 1759828920796,
+    "fileName": "1759828903046-Win11_25H2_English_x64.iso",
+    "downloadUrl": "/downloads/1759828903046-Win11_25H2_English_x64.iso"
+  },
+  {
+    "name": "Office 365",
+    "version": "365",
+    "categoryId": "1759225635450",
+    "description": "Kết hợp các ứng dụng văn phòng quen thuộc như Word, Excel, PowerPoint, Outlook",
+    "thumbnail": "1761036882258-bf1d7776854a219181efec6ff0f3563b.jpg",
+    "id": 1759553920517,
+    "fileName": "1759553920510-OfficeSetup.exe",
+    "downloadUrl": "/downloads/1759553920510-OfficeSetup.exe"
+  },
+  {
+    "name": "Windows ",
+    "version": "LTSC",
+    "categoryId": "1759506693230",
+    "description": "LTSC 2021 FREE\n",
+    "thumbnail": "",
+    "id": 1759509939630,
+    "fileName": "1759509928474-LTSC_2021.7z",
+    "downloadUrl": "/downloads/1759509928474-LTSC_2021.7z"
+  },
+  {
+    "name": "a",
+    "version": "a",
+    "categoryId": "1759464161125",
+    "description": "a",
+    "thumbnail": "1759507421686-pexels-scottwebb-3255761.jpg",
+    "id": 1759507440448,
+    "fileName": "1759507440162-blender-4.5.3-windows-x64.msi",
+    "downloadUrl": "/downloads/1759507440162-blender-4.5.3-windows-x64.msi"
+  },
+  {
+    "name": "Video Copilot Optical Flares",
+    "version": "Windows",
+    "categoryId": "1759464161125",
+    "description": "aaaaa",
+    "thumbnail": "1759506608298-pexels-scottwebb-3255761.jpg",
+    "id": 1759506814995,
+    "fileName": "1759506797565-Win11_Pro_24H2.7z",
+    "downloadUrl": "/downloads/1759506797565-Win11_Pro_24H2.7z"
+  },
+  {
+    "name": "Adobe InDesign",
+    "version": "Windows",
+    "categoryId": "1759371319063",
+    "description": "Pass giải nén: taiwebs.com\t",
+    "id": 1759473863281,
+    "fileName": "1759473862042-AdobeInDesign2025v20.5.0.048.x64Premkse.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1759473862042-AdobeInDesign2025v20.5.0.048.x64Premkse.taiwebs.com.zip",
+    "thumbnail": "1759493455261-pexels-scottwebb-3255761.jpg"
+  },
+  {
+    "name": "Adobe Audition",
+    "version": "Windows",
+    "categoryId": "1762241152728",
+    "description": "Pass giải nén: taiwebs.com\t",
+    "id": 1759473726992,
+    "fileName": "1759473726390-AdobeAudition2025v25.3.0.x64Premkse.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1759473726390-AdobeAudition2025v25.3.0.x64Premkse.taiwebs.com.zip",
+    "thumbnail": ""
+  },
+  {
+    "name": "AdobePhotoshop",
+    "version": "Windows",
+    "categoryId": "1759402146774",
+    "description": " Pass giải nén: taiwebs.com",
+    "id": 1759472672510,
+    "fileName": "1759472653359-AdobePhotoshop2025v26.11.0.x64PreUpdate.taiwebs.com_2.zip",
+    "downloadUrl": "/downloads/1759472653359-AdobePhotoshop2025v26.11.0.x64PreUpdate.taiwebs.com_2.zip"
+  },
+  {
+    "name": "AdobePremierePro",
+    "version": "Windows",
+    "categoryId": "1762241152728",
+    "description": "Pass giải nén: taiwebs.com",
+    "id": 1759472444376,
+    "fileName": "1759472437742-AdobePremierePro2025v25.5.0.013.x64Premksv.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1759472437742-AdobePremierePro2025v25.5.0.013.x64Premksv.taiwebs.com.zip",
+    "thumbnail": ""
+  },
+  {
+    "name": "AdobeMediaEncoder",
+    "version": "Windows",
+    "categoryId": "1759402146774",
+    "description": "Pass giải nén: taiwebs.com",
+    "id": 1759472262572,
+    "fileName": "1759472259528-AdobeMediaEncoder2025v25.5.0.013.x64Premksc.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1759472259528-AdobeMediaEncoder2025v25.5.0.013.x64Premksc.taiwebs.com.zip"
+  },
+  {
+    "name": "Adobe After Effects",
+    "version": "Windows",
+    "categoryId": "1759402146774",
+    "description": "Pass giải nén: taiwebs.com",
+    "id": 1759467758428,
+    "fileName": "1759467748059-AdobeAfterEffects2025v25.5.0.x64Premksg.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1759467748059-AdobeAfterEffects2025v25.5.0.x64Premksg.taiwebs.com.zip"
+  },
+  {
+    "name": "Adobe Illustrator ",
+    "version": "Windows",
+    "categoryId": "1759402146774",
+    "description": "Phần mềm học Graphics Design",
+    "id": 1759465759182,
+    "fileName": "1759465752101-Adobe_Illustrator_2025_v29.8.2_(x64)_Pre_Multilingual.rar",
+    "downloadUrl": "/downloads/1759465752101-Adobe_Illustrator_2025_v29.8.2_(x64)_Pre_Multilingual.rar"
+  },
+  {
+    "name": "Wacom Driver",
+    "version": "6.3.46-1",
+    "categoryId": "1759225635450",
+    "description": "Wacom",
+    "id": 1759381366993,
+    "fileName": "1759381364273-WacomTablet_6.3.46-1.exe",
+    "downloadUrl": "/downloads/1759381364273-WacomTablet_6.3.46-1.exe"
+  },
+  {
+    "name": "NetSupport School ",
+    "version": "v14.00",
+    "categoryId": "1759225635450",
+    "description": "Quản lý phòng học",
+    "id": 1759381327809,
+    "fileName": "1759381314141-NetSupport_School_v14.00.rar",
+    "downloadUrl": "/downloads/1759381314141-NetSupport_School_v14.00.rar"
+  },
+  {
+    "name": "Adobe After Effects",
+    "version": "Windows",
+    "categoryId": "1759371319063",
+    "description": "Phần mềm học khóa Video Editor",
+    "id": 1759375849008,
+    "fileName": "1759375593632-Adobe_After_Effects_2022_v22.6.0.64_(x64)_Multilingual.rar",
+    "downloadUrl": "/downloads/1759375593632-Adobe_After_Effects_2022_v22.6.0.64_(x64)_Multilingual.rar"
+  },
+  {
+    "name": "Adobe Premiere Pro ",
+    "version": "Windows",
+    "categoryId": "1759371319063",
+    "description": "Phần mềm học khóa Video Editor",
+    "id": 1759375350860,
+    "fileName": "1759375182961-Adobe_Premiere_Pro_2022_v22.6.2.2_(x64)_Multilingual.rar",
+    "downloadUrl": "/downloads/1759375182961-Adobe_Premiere_Pro_2022_v22.6.2.2_(x64)_Multilingual.rar"
+  },
+  {
+    "name": "Adobe After Effects",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Video Editor\t",
+    "id": 1759235205204,
+    "fileName": "1759235138789-AE_2021.rar",
+    "downloadUrl": "/downloads/1759235138789-AE_2021.rar"
+  },
+  {
+    "name": "Adobe InDesign",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Graphics Design\t",
+    "id": 1759234854115,
+    "fileName": "1759234829616-Adobe_InDesign_2021.rar",
+    "downloadUrl": "/downloads/1759234829616-Adobe_InDesign_2021.rar"
+  },
+  {
+    "name": "Adobe Photoshop ",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Graphics Design\t",
+    "id": 1759229891805,
+    "fileName": "1759229677065-Adobe_Photoshop_2021.rar",
+    "downloadUrl": "/downloads/1759229677065-Adobe_Photoshop_2021.rar"
+  },
+  {
+    "name": "Adobe Premiere Pro ",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Video Editor",
+    "id": 1759229588149,
+    "fileName": "1759229434348-Adobe_Premiere_Pro_2021.rar",
+    "downloadUrl": "/downloads/1759229434348-Adobe_Premiere_Pro_2021.rar"
+  },
+  {
+    "name": "Adobe Media Encoder ",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Video Editor",
+    "id": 1759228035208,
+    "fileName": "1759227941405-Adobe_Media_Encoder_2021.rar",
+    "downloadUrl": "/downloads/1759227941405-Adobe_Media_Encoder_2021.rar"
+  },
+  {
+    "name": "Adobe Illustrator ",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Graphics Design",
+    "id": 1759227803815,
+    "fileName": "1759227678408-Adobe_Illustrator_2021.rar",
+    "downloadUrl": "/downloads/1759227678408-Adobe_Illustrator_2021.rar"
+  },
+  {
+    "name": "Adobe Audition ",
+    "version": "2021",
+    "categoryId": "1759039545793",
+    "description": "Phần mềm học khóa Video Editor",
+    "id": 1759227598522,
+    "fileName": "1759227557777-Adobe_Audition_2021.rar",
+    "downloadUrl": "/downloads/1759227557777-Adobe_Audition_2021.rar"
+  },
+  {
+    "name": "V-Ray  3ds Max",
+    "version": "6.00.20 ",
+    "categoryId": "1762500920445",
+    "description": "V-Ray  For 3ds Max 2022",
+    "id": 1759227483943,
+    "fileName": "1759227432151-V-Ray_6.00.20_For_3ds_Max_2022_(x64).rar",
+    "downloadUrl": "/downloads/1759227432151-V-Ray_6.00.20_For_3ds_Max_2022_(x64).rar",
+    "thumbnail": ""
+  },
+  {
+    "name": "V-Ray Sketchup",
+    "version": "6.00.01 ",
+    "categoryId": "1762500920445",
+    "description": "V-Ray For SketchUp2022",
+    "id": 1759227371579,
+    "fileName": "1759227290518-V-Ray_6.00.01_for_SketchUp2022_(x64).rar",
+    "downloadUrl": "/downloads/1759227290518-V-Ray_6.00.01_for_SketchUp2022_(x64).rar",
+    "thumbnail": ""
+  },
+  {
+    "name": "AUTOCAD ",
+    "version": "2022",
+    "categoryId": "1762500920445",
+    "description": "Autocad 2022",
+    "id": 1759227109433,
+    "fileName": "1759226936057-AUTOCAD_2022.rar",
+    "downloadUrl": "/downloads/1759226936057-AUTOCAD_2022.rar",
+    "thumbnail": ""
+  },
+  {
+    "name": "SKETCHUP",
+    "version": "2022",
+    "categoryId": "1762500920445",
+    "description": "Phần mềm Sketchup 2022",
+    "id": 1759226889810,
+    "fileName": "1759226864763-SKETCHUP2022.rar",
+    "downloadUrl": "/downloads/1759226864763-SKETCHUP2022.rar",
+    "thumbnail": ""
+  },
+  {
+    "id": 1758992753755,
+    "name": "Wub",
+    "description": "Tắt Windows Update",
+    "version": "V1",
+    "fileName": "1758992753706-Wub.zip",
+    "downloadUrl": "/downloads/1758992753706-Wub.zip",
+    "categoryId": "1759225635450"
+  },
+  {
+    "id": 1758992695127,
+    "name": "Anhdv Boot",
+    "description": "Mật khẩu giải nén file: taiwebs.com",
+    "version": "2024v24.1 Premium",
+    "fileName": "1758992590615-AnhdvBoot2024v24.1Premium.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1758992590615-AnhdvBoot2024v24.1Premium.taiwebs.com.zip",
+    "categoryId": "1759225635450"
+  },
+  {
+    "id": 1758987697468,
+    "name": "Video Copilot Optical Flares",
+    "description": "Mật khẩu giải nén file: taiwebs.com",
+    "version": "1.3.8.170",
+    "fileName": "1758987694531-VideoCopilotOpticalFlares1.3.8.170.d.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1758987694531-VideoCopilotOpticalFlares1.3.8.170.d.taiwebs.com.zip",
+    "categoryId": "1759116849963"
+  },
+  {
+    "id": 1758987645964,
+    "name": "Saber Plugin AE",
+    "description": "Mật khẩu giải nén file: taiwebs.com",
+    "version": "1.0.40_Installer_Win_2022.1",
+    "fileName": "1758987645902-Saber_1.0.40_Installer_Win_2022.1.zip",
+    "downloadUrl": "/downloads/1758987645902-Saber_1.0.40_Installer_Win_2022.1.zip",
+    "categoryId": "1759116849963"
+  },
+  {
+    "id": 1758987558722,
+    "name": "RedGiantVFXSuite - Plugin AE",
+    "description": "Mật khẩu giải nén file: taiwebs.com",
+    "version": "2025",
+    "fileName": "1758987538026-RedGiantVFXSuite2025.0.x64.c.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1758987538026-RedGiantVFXSuite2025.0.x64.c.taiwebs.com.zip",
+    "categoryId": "1759116849963"
+  },
+  {
+    "id": 1758987468683,
+    "name": "AdobeAfterEffects",
+    "description": "Mật khẩu giải nén file: taiwebs.com",
+    "version": "2023",
+    "fileName": "1758987234536-AdobeAfterEffects2023v23.6.0.62.x64.Pre.mks.y.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1758987234536-AdobeAfterEffects2023v23.6.0.62.x64.Pre.mks.y.taiwebs.com.zip",
+    "categoryId": "1759039545793"
+  },
+  {
+    "id": 1758983228660,
+    "name": "Adobe Premier Pro",
+    "description": "Pass Giải nén : taiwebs.com",
+    "version": "2023",
+    "fileName": "1758983213728-AdobePremierePro2023v23.6.0.65.x64.Pre.mks.c.taiwebs.com.zip",
+    "downloadUrl": "/downloads/1758983213728-AdobePremierePro2023v23.6.0.65.x64.Pre.mks.c.taiwebs.com.zip",
+    "categoryId": "1759039545793"
+  },
+  {
+    "id": 1730000000002,
+    "name": "3ds max",
+    "description": "Phần mềm học khóa Nội Thất",
+    "version": "2022 -Windows",
+    "categoryId": "1762500920445",
+    "fileName": "3Dmax.rar",
+    "downloadUrl": "/downloads/3Dmax.rar",
+    "thumbnail": ""
+  }
+]

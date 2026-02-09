@@ -1,0 +1,38 @@
+[
+  {
+    "name": "TEST Đầu vào HV",
+    "categoryId": "1760089190915",
+    "description": "Học viên sử dụng dữ liệu được cung cấp tại chuyên mục Bài thi kết thúc môn học đính \nkèm tại Google Classroom của lớp để thực hiện bài làm của mình. Dữ liệu được cung \ncấp bao gồm: - Mẫu Poster: tập tin PS_DE01.jpg.  - Thư mục Images: gồm các hình ảnh phục vụ cho bài làm. - Thư mục Font: gồm các bộ font chữ phục vụ cho bài làm.",
+    "thumbnail": "",
+    "id": 1760089271250,
+    "fileName": "1760089271247-Test_PTS.rar",
+    "downloadUrl": "/downloads/1760089271247-Test_PTS.rar"
+  },
+  {
+    "name": "aa",
+    "categoryId": "1760007517160",
+    "description": "aaa",
+    "thumbnail": "1760078689911-557691258_874816548441612_1717994406865225474_n.jpg",
+    "id": 1760078694819,
+    "fileName": "1760078694817-FRE-01-20251009T105741Z-1-001.zip",
+    "downloadUrl": "/downloads/1760078694817-FRE-01-20251009T105741Z-1-001.zip"
+  },
+  {
+    "name": "aaaa",
+    "categoryId": "1760007517160",
+    "description": "aaa",
+    "thumbnail": "1760077608934-557691258_874816548441612_1717994406865225474_n.jpg",
+    "id": 1760077616673,
+    "fileName": "1760077616670-FRE-01.rar",
+    "downloadUrl": "/downloads/1760077616670-FRE-01.rar"
+  },
+  {
+    "name": "aaaaa",
+    "categoryId": "1759133694530",
+    "description": "aaaaaaa",
+    "thumbnail": "1760077356447-557691258_874816548441612_1717994406865225474_n.jpg",
+    "id": 1760077364365,
+    "fileName": "1760077364362-FRE-01.rar",
+    "downloadUrl": "/downloads/1760077364362-FRE-01.rar"
+  }
+]

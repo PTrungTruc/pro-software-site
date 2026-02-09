@@ -1,0 +1,143 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 230 35% 5%;
+    /* Đen vũ trụ sâu */
+    --foreground: 210 40% 96%;
+    /* Trắng xanh dịu */
+    --sidebar: 0 0% 0%;
+    --card: 230 30% 8%;
+    /* Nền panel tối hơn background */
+    --card-foreground: 210 40% 96%;
+    --popover: 230 35% 6%;
+    --popover-foreground: 210 40% 96%;
+    --primary: 186 100% 50%;
+    /* Cyan phát sáng */
+    --primary-foreground: 230 35% 6%;
+    --secondary: 230 20% 20%;
+    /* Xanh đen */
+    --secondary-foreground: 210 40% 96%;
+    --ash: 200 40% 14%;
+    --ash-soft: 200 40% 18%;
+    --ash-glow: 200 40% 25%;
+    --ash-foreground: 220 20% 85%;
+    --white: 0 0% 100%;
+    /* Trắng tinh */
+    --absolute-white: 0 0% 100%;
+    /* Trắng tinh */
+    --white-foreground: 20 0% 80%;
+    --black: 230 35% 5%;
+    /* Đen */
+    --dark: 230 35% 5%;
+    /* Đen */
+    --muted: 230 22% 16%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 265 90% 68%;
+    /* Tím vũ trụ */
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 72% 45%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 230 25% 22%;
+    /* Viền xanh tím tối */
+    --input: 220 20% 12%;
+    --ring: 186 100% 50%;
+    --radius: 1rem;
+  }
+
+  .light {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --sidebar: 210 40% 98%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 173 98% 39%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 230 25% 92%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --ash: 230 30% 94%;
+    --ash-soft: 230 30% 90%;
+    --ash-glow: 230 30% 85%;
+    --ash-foreground: 220 15% 28%;
+    --white: 230 35% 5%;
+    /* Đen */
+    --absolute-white: 0 0% 100%;
+    /* Trắng tinh */
+    --white-foreground: 20 10% 40%;
+    --black: 0 0% 100%;
+    /* Trắng tinh */
+    --dark: 230 35% 5%;
+    /* Đen */
+    --muted: 230 20% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 45 93% 53%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 173 98% 39%;
+  }
+
+  hr {
+    border-color: hsl(var(--white)) ! important;
+    color: hsl(var(--absolute-white));
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+
+  /* ===== Scrollbar toàn cục ===== */
+  * {
+    scrollbar-width: thin;
+    /* Firefox */
+    scrollbar-color: hsl(var(--border)) transparent;
+  }
+
+  /* Chrome, Edge, Safari */
+  *::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--border));
+    border-radius: 999px;
+    border: 2px solid transparent;
+    /* tạo cảm giác mảnh */
+    background-clip: content-box;
+  }
+
+  *::-webkit-scrollbar-thumb:hover {
+    background-color: hsl(var(--primary));
+  }
+
+  /* ===== Scrollbar Hidden ===== */
+  .scrollbar-hidden {
+    -ms-overflow-style: none;
+    /* IE, Edge */
+    scrollbar-width: none;
+    /* Firefox */
+  }
+
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+    /* Chrome, Safari */
+  }
+
+}

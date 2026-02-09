@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #f8f9fa;
+}
+
+main {
+    flex-grow: 1;
+}
+
+.post-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.post-content pre {
+    padding: 1rem;
+    border-radius: 5px;
+    background-color: #e9ecef;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+.card-title a {
+    text-decoration: none;
+    color: inherit;
+}
+.card-title a:hover {
+    color: var(--bs-primary);
+}

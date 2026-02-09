@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1760089327248,
+    "examId": "1760089271250",
+    "studentInfo": {
+      "name": "Tuyên",
+      "phone": "0378028550",
+      "email": "hmtuyen02@gmail.com"
+    },
+    "fileName": "1760089327248-Test_PTS.rar",
+    "downloadUrl": "/downloads/1760089327248-Test_PTS.rar",
+    "submissionDate": "2025-10-10T09:42:07.248Z"
+  },
+  {
+    "id": 1760078857554,
+    "examId": "1760078694819",
+    "studentInfo": {
+      "name": "aaaa",
+      "phone": "aaaaa",
+      "email": "1@gmail.com"
+    },
+    "fileName": "1760078857554-MÃ¹i_hÆ°Æ¡ng_lÆ°u_luyáº¿n.mp4",
+    "downloadUrl": "/downloads/1760078857554-MÃ¹i_hÆ°Æ¡ng_lÆ°u_luyáº¿n.mp4",
+    "submissionDate": "2025-10-10T06:47:37.554Z"
+  }
+]

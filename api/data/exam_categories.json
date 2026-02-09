@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1759131313255,
+    "name": "Test đầu vào VID",
+    "slug": "test-đầu-vào-vid"
+  },
+  {
+    "id": 1759133690190,
+    "name": "3DS Max",
+    "slug": "3ds-max"
+  },
+  {
+    "id": 1759133694530,
+    "name": "Auto Cad",
+    "slug": "auto-cad"
+  },
+  {
+    "id": 1760007517160,
+    "name": "Test PRE IT",
+    "slug": "test-pre-it"
+  },
+  {
+    "id": 1760089190915,
+    "name": "Photoshop",
+    "slug": "photoshop"
+  }
+]
